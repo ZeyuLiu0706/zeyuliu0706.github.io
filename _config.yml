@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Shenzhen-China"
+locale                   : "en-US"
 title                    : "Zeyu Liu"
 title_separator          : "-"
 name                     : &name "Zeyu Liu"
@@ -21,9 +21,8 @@ repository               : "zeyuliu0706.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zeyuliu.png"
   name             : "Zeyu Liu"
-  pronouns         : # example: "she/her"  
+  avatar           : "zeyuliu.png"
   bio              : "Master student at Harbin Institute of Technology (Shenzhen) of Computer Science and Technology"
   location         : "Shen Zhen"
   # employer         : "Harbin Institute of Technology (Shenzhen)"
