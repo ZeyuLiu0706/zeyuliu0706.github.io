@@ -22,7 +22,7 @@ repository               : "zeyuliu0706.github.io"
 author:
   # Biographic information
   name             : "Zeyu Liu"
-  avatar           : "profile.png"
+  avatar           : "latonmi.jpg"
   bio              : "Master student at Harbin Institute of Technology (Shenzhen) of Computer Science and Technology"
   location         : "Shen Zhen"
   # employer         : "Harbin Institute of Technology (Shenzhen)"
@@ -32,7 +32,7 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : https://scholar.google.com/citations?user=wt2iQjYAAAAJ
-  github           : https://github.com/ZeyuLiu0706
+  github           : ZeyuLiu0706
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
