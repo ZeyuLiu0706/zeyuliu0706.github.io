@@ -199,9 +199,9 @@ kramdown:
 
 # Collections
 collections:
-  # teaching:
-  #   output: True
-  #   permalink: /:collection/:path/
+  teaching:
+    output: True
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
