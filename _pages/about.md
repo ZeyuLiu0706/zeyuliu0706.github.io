@@ -7,7 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi 🤗~ I am a second-year Master's student at Harbin Institute of Techonology (Shenzhen), advised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/).
+Hi 🤗~ I am a second-year Master's student at [Harbin Institute of Techonology (Shenzhen)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology, advised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/). I completed my Bachelor’s degree in [Harbin Institute of Techonology (Weihai)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology.
+
+Research Interests
+======
+I believe that data plays an important role in all deep learning models. Hence, I would like to focus on data influence on various models and tasks. To achieve this, I primarily interested in 🤯:
+
+- Machine Learning, especially [Multi-Task Learning](https://ieeexplore.ieee.org/document/9392366) and [Curriculum Learning](https://ieeexplore.ieee.org/document/9392296). 
+
+- Large Language Models and their application to specific down-stream tasks. 
+
+- Multi-Modal data fusion and data analysis. 
+
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
