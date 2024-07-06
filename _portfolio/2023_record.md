@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 Various places with memories.  
+<img src='/images/camera/2023.jpg' style='width: 500px; height: auto;'>
