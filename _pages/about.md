@@ -9,9 +9,8 @@ redirect_from:
 
 Hi 🤗~ I am a second-year Master's student at [Harbin Institute of Techonology (Shenzhen)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology, advised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/). I completed my Bachelor’s degree in [Harbin Institute of Techonology (Weihai)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology.
 
-Research Interests
-======
-I believe that data plays an important role in all deep learning models. Hence, I would like to focus on data influence on various models and tasks. To achieve this, I primarily interested in 🤯:
+## 🤯 Research Interests
+I believe that data plays an important role in all deep learning models. Hence, I would like to focus on data influence on various models and tasks. To achieve this, I primarily interested in:
 
 - Machine Learning, especially [Multi-Task Learning](https://ieeexplore.ieee.org/document/9392366) and [Curriculum Learning](https://ieeexplore.ieee.org/document/9392296). 
 
@@ -21,8 +20,7 @@ I believe that data plays an important role in all deep learning models. Hence, 
 
 ## 📝 Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=wt2iQjYAAAAJ). 
-
-$^\dagger$ denotes corresponding author/main advisor
+\* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
 
 <!--
