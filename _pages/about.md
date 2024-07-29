@@ -7,26 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-Hi 🤗~ I am a second-year Master's student at [Harbin Institute of Techonology (Shenzhen)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology, advised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/). I completed my Bachelor’s degree in [Harbin Institute of Techonology (Weihai)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology.
+Hi 🤗~ I am a second-year Master's student at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology, advised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/). I completed my Bachelor’s degree in [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology.
 
 ## 🤯 Research Interests
-I believe that data plays an important role in all deep learning models. Hence, I would like to focus on data influence on various models and tasks. To achieve this, I primarily interested in:
+I believe that data plays an important role in all deep learning models. Hence, I would like to focus on data influence on various models and tasks. To achieve this, I am primarily interested in:
 
 - Machine Learning, especially [Multi-Task Learning](https://ieeexplore.ieee.org/document/9392366) and [Curriculum Learning](https://ieeexplore.ieee.org/document/9392296). 
 
-- Large Language Models and their application to specific down-stream tasks. 
+- Large Language Models and their application to specific downstream tasks. 
 
-- Multi-Modal data fusion and data analysis. 
+- Multi-modal data fusion and data analysis. 
 
 ## 📝 Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=wt2iQjYAAAAJ). \
 \* denotes the corresponding author. 
-1. **Learning from Easy to Hard: Multi-Task Learning with Data Scheduling. (ICASSP 2024)** \
+- **Data and Task Dual Scheduling for Multi-task Learning.**\
+  **Key Words:** multi-task learning, curriculum learning, task conflicts \
+  **Zeyu Liu**, Heyan Chai, Chaoyang Li, Binxing Fang, and Qing Liao*. \
+  **Under-Review**
+- **Learning from Easy to Hard: Multi-Task Learning with Data Scheduling.** \
    **Key Words:** multi-task learning, data scheduling, task conflicts \
-   **Zeyu Liu**, Heyan Chai, and Qing Liao*. 
-2. **Towards Task-Conflicts Momentum-Calibrated Approach for Multi-task Learning. (ICDE 2024)** \
+   **Zeyu Liu**, Heyan Chai, and Qing Liao*. \
+   **ICASSP 2024**
+- **Towards Task-Conflicts Momentum-Calibrated Approach for Multi-task Learning.** \
    **Key Words:** multi-task learning, gradient manipulation, task conflicts \
-   Heyan Chai, **Zeyu Liu**, Yongxin Tong, Ziyi Yao, Binxing Fang, and Qing Liao*. 
+   Heyan Chai, **Zeyu Liu**, Yongxin Tong, Ziyi Yao, Binxing Fang, and Qing Liao*. \
+   **ICDE 2024**
  
 
 
