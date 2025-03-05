@@ -1,3 +1,13 @@
+---
+title: 'R1_MLLM'
+date: 2025-03-24
+permalink: /posts/RL_related
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # R1_MLLM
 
 ## RL-repo
