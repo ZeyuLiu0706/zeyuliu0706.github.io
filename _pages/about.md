@@ -7,31 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-Hi 🤗~ I am a second-year Master's student at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology, advised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/). I completed my Bachelor’s degree in [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology.
+Hi 🤗~ I am a third-year Master's student at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology, advised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/). I completed my Bachelor’s degree in [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology.
 
 ## 🤯 Research Interests
 I believe that data plays an important role in all deep learning models. Hence, I would like to focus on data influence on various models and tasks. To achieve this, I am primarily interested in:
 
 - Machine Learning, especially [Multi-Task Learning](https://ieeexplore.ieee.org/document/9392366) and [Curriculum Learning](https://ieeexplore.ieee.org/document/9392296). 
 
-- Large Language Models and their application to specific downstream tasks. 
+- Multi-modal Large Language Model Reasoning and its application to specific downstream tasks. 
 
-- Multi-modal data fusion and data analysis. 
 
 ## 📝 Publications
 **\* denotes the corresponding author.**
-- **Data and Task Dual Scheduling for Multi-task Learning.**\
-  **Key Words:** multi-task learning, curriculum learning, task conflicts \
-  ***Zeyu Liu***, _Heyan Chai, Chaoyang Li, Binxing Fang, and Qing Liao*._ \
-  **Under-Review**
+- **Adaptive Data and Task Joint Scheduling for Multi-task Learning.**\
+  **Key Words:** Multi-task Learning, Curriculum learning, Task conflicts \
+  ***Zeyu Liu***, _Heyan Chai, Chaoyang Li, Lingzhi Wang, and Qing Liao*._ \
+  **ICDE 2025**
 - **Learning from Easy to Hard: Multi-Task Learning with Data Scheduling.** \
-   **Key Words:** multi-task learning, data scheduling, task conflicts \
+   **Key Words:** Multi-task Learning, Data Scheduling, Task conflicts \
    ***Zeyu Liu***, _Heyan Chai, and Qing Liao*._ \
    **ICASSP 2024**
 - **Towards Task-Conflicts Momentum-Calibrated Approach for Multi-task Learning.** \
-   **Key Words:** multi-task learning, gradient manipulation, task conflicts \
+   **Key Words:** Multi-task Learning, Gradient Manipulation, Task Conflicts \
    _Heyan Chai,_ ***Zeyu Liu***, _Yongxin Tong, Ziyi Yao, Binxing Fang, and Qing Liao*._ \
    **ICDE 2024**
+- **Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning.** \
+  **Key Words:** Multi-task Learning; Prompt Learning; Causal Learning \
+  _Chaoyang Li,_ _Jianyang Qin,_ _Jinhao Cui,_ _***Zeyu Liu***,_ _Ning Hu,_ and _Qing Liao*._ \
+  **CVPR 2025**
  
 
 
