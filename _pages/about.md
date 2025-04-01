@@ -23,7 +23,12 @@ I believe that data plays an important role in all deep learning models. Hence, 
   **ICDE 2025** \
   **Keywords:** Multi-task Learning, Curriculum learning, Task conflicts \
   ***Zeyu Liu***, _Heyan Chai, Chaoyang Li, Lingzhi Wang, and Qing Liao*._ 
-  
+
+- **Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning.** \
+  **CVPR 2025** \
+  **Key Words:** Multi-task Learning; Prompt Learning; Causal Learning \
+  _Chaoyang Li,_ _Jianyang Qin,_ _Jinhao Cui,_ _**Zeyu Liu**,_ _Ning Hu,_ and _Qing Liao*._ 
+
 - **Learning from Easy to Hard: Multi-Task Learning with Data Scheduling.** \
   **ICASSP 2024** \
    **Keywords:** Multi-task Learning, Data Scheduling, Task conflicts \
@@ -34,10 +39,7 @@ I believe that data plays an important role in all deep learning models. Hence, 
    **Keywords:** Multi-task Learning, Gradient Manipulation, Task Conflicts \
    _Heyan Chai,_ ***Zeyu Liu***, _Yongxin Tong, Ziyi Yao, Binxing Fang, and Qing Liao*._ 
    
-- **Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning.** \
-  **CVPR 2025** \
-  **Key Words:** Multi-task Learning; Prompt Learning; Causal Learning \
-  _Chaoyang Li,_ _Jianyang Qin,_ _Jinhao Cui,_ _**Zeyu Liu**,_ _Ning Hu,_ and _Qing Liao*._ 
+
   
  
 
