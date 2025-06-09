@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zeyu Liu"
 title_separator          : "-"
 name                     : &name "Zeyu Liu"
-description              : &description " Master at HIT(Shenzhen) "
+description              : &description " Graduate Student at HIT(Shenzhen) "
 url                      : https://zeyuliu0706.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zeyuliu0706.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   name             : "Zeyu Liu"
   avatar           : "latonmi.jpg"
-  bio              : "Master student at Harbin Institute of Technology (Shenzhen) of Computer Science and Technology"
+  bio              : "Graduate Student at Harbin Institute of Technology (Shenzhen) of Computer Science and Technology"
   location         : "Shenzhen, China"
   # employer         : "Harbin Institute of Technology (Shenzhen)"
   uri              : # URL
