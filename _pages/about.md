@@ -14,7 +14,7 @@ redirect_from:
 - I received my Bachelor’s Degree in Computer Science and Technology at the School of Computer Science and Technology, [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html) in 2022.
 
 ## 🤯 Research Interests
-- Multimodal Large Language Model: Downstream Applications (Medical and Mathematics) and Inference Enhancement of Multimodal Large Models
+- Multimodal Large Language Model: Downstream Applications (Medical and Mathematics) and Reasoning Enhancement of Multimodal Large Models
 - Machine Learning, especially [Multi-Task Learning](https://ieeexplore.ieee.org/document/9392366) and [Curriculum Learning](https://ieeexplore.ieee.org/document/9392296). 
 
 
