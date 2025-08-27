@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "About me (Latest updates 2025/03/28)"
+title: "About me (Latest updates 2025/08)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi 🤗~ I am a third-year Master's student at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology, advised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/). I completed my Bachelor’s degree in [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html), majoring in Computer Science and Technology.
+## 🤗 About me
+- I am a first-year PhD student in the Department of Computing of [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/).
+- My current research interests are mainly in Applications of MLLMs and MLLM Reasoning Enhancement.
+- I received my Master’s Degree in Computer Science and Technology at the School of Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), supervised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/) in 2025.
+- I received my Bachelor’s Degree in Computer Science and Technology at the School of Computer Science and Technology, [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html) in 2022.
 
 ## 🤯 Research Interests
 I believe that data plays an important role in all deep learning models. Hence, I would like to focus on data influence on various models and tasks. To achieve this, I am primarily interested in:
