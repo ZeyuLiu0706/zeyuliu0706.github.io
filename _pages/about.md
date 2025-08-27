@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me (Latest updates 2025/08)"
+title: "Zeyu Liu (Latest updates 2025/08)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,11 +14,8 @@ redirect_from:
 - I received my Bachelor’s Degree in Computer Science and Technology at the School of Computer Science and Technology, [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html) in 2022.
 
 ## 🤯 Research Interests
-I believe that data plays an important role in all deep learning models. Hence, I would like to focus on data influence on various models and tasks. To achieve this, I am primarily interested in:
-
+- Multimodal Large Language Model: Downstream Applications (Medical and Mathematics) and Inference Enhancement of Multimodal Large Models
 - Machine Learning, especially [Multi-Task Learning](https://ieeexplore.ieee.org/document/9392366) and [Curriculum Learning](https://ieeexplore.ieee.org/document/9392296). 
-
-- Multi-modal Large Language Model Reasoning and its application to specific downstream tasks. 
 
 
 ## 📝 Publications
