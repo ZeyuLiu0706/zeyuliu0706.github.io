@@ -26,7 +26,7 @@ redirect_from:
   **Keywords:** Multi-task Learning, Curriculum learning, Task conflicts \
   ***Zeyu Liu***, _Heyan Chai, Chaoyang Li, Lingzhi Wang, and Qing Liao*._ 
 
-- **Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning.** \
+- **[Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning.](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Joint_Scheduling_of_Causal_Prompts_and_Tasks_for_Multi-Task_Learning_CVPR_2025_paper.pdf)** \
   **CVPR 2025** \
   **Key Words:** Multi-task Learning; Prompt Learning; Causal Learning \
   _Chaoyang Li,_ _Jianyang Qin,_ _Jinhao Cui,_ _**Zeyu Liu**,_ _Ning Hu,_ and _Qing Liao*._ 
