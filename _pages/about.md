@@ -18,7 +18,7 @@ redirect_from:
 - Machine Learning, especially [Multi-Task Learning](https://ieeexplore.ieee.org/document/9392366) and [Curriculum Learning](https://ieeexplore.ieee.org/document/9392296). 
 
 
-## 📝 Publications
+## 📝 Publications and Manuscripts
 **\* denotes the corresponding author.**
 - **Adaptive Data and Task Joint Scheduling for Multi-task Learning.** \
   **ICDE 2025** \
