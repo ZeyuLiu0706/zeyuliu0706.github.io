@@ -33,7 +33,7 @@ redirect_from:
 
 - **[InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization.](https://arxiv.org/abs/2508.05731)** \
   **_2025 Under Review_** \
-  **Keywords:** MLLM; GUI Agent; Reinforcement Learning \
+  **_Keywords_:** MLLM; GUI Agent; Reinforcement Learning \
   👥: _Yuhang Liu*, **Zeyu Liu***, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xavier Hu, Xiaotian Han, Jianbo Yuan, Xinyao Wang, Shengyu Zhang, Hongxia Yang, Fei Wu._ 
 
 - **[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091)** \
