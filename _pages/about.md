@@ -19,7 +19,6 @@ redirect_from:
 
 
 ## 📝 Publications and Manuscripts
-**\* denotes the corresponding author.**
 - **Adaptive Data and Task Joint Scheduling for Multi-task Learning.** \
   **ICDE 2025** \
   **Keywords:** Multi-task Learning, Curriculum learning, Task conflicts \
@@ -29,6 +28,16 @@ redirect_from:
   **CVPR 2025** \
   **Key Words:** Multi-task Learning; Prompt Learning; Causal Learning \
   _Chaoyang Li,_ _Jianyang Qin,_ _Jinhao Cui,_ _**Zeyu Liu**,_ _Ning Hu,_ and _Qing Liao*._ 
+
+- **[InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization.](https://arxiv.org/abs/2508.05731)** \
+  **2025 Under Review** \
+  **Key Words:** MLLM; GUI Agent; Reinforcement Learning \
+  _Yuhang Liu*, **Zeyu Liu***, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xavier Hu, Xiaotian Han, Jianbo Yuan, Xinyao Wang, Shengyu Zhang, Hongxia Yang, Fei Wu._ (*Equal contribution)
+
+- **[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091)** \
+  **2025 Under Review** \
+  **Key Words:** MLLM; Reasoning; Reinforcement Learning \
+  _**Zeyu Liu***, Yuhang Liu*, Guanghao Zhu, Congkai Xie, Zhen Li, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang_
 
 - **Learning from Easy to Hard: Multi-Task Learning with Data Scheduling.** \
   **ICASSP 2024** \
