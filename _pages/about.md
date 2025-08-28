@@ -23,43 +23,44 @@ redirect_from:
 
 - **[Adaptive Data and Task Joint Scheduling for Multi-task Learning.](https://ieeexplore.ieee.org/abstract/document/11113158)** \
   **_ICDE 2025_** \
-  **Keywords:** Multi-task Learning, Curriculum learning, Task conflicts \
-  ***Zeyu Liu***, _Heyan Chai, Chaoyang Li, Lingzhi Wang, and Qing Liao*._ 
+  **_Keywords_:** Multi-task Learning, Curriculum learning, Task conflicts \
+  👥: _**Zeyu Liu**, Heyan Chai, Chaoyang Li, Lingzhi Wang, and Qing Liao._ 
 
 - **[Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning.](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Joint_Scheduling_of_Causal_Prompts_and_Tasks_for_Multi-Task_Learning_CVPR_2025_paper.pdf)** \
   **_CVPR 2025_** \
-  **Key Words:** Multi-task Learning; Prompt Learning; Causal Learning \
-  _Chaoyang Li,_ _Jianyang Qin,_ _Jinhao Cui,_ _**Zeyu Liu**,_ _Ning Hu,_ and _Qing Liao*._ 
+  **_Keywords_:** Multi-task Learning; Prompt Learning; Causal Learning \
+  👥: _Chaoyang Li,_ _Jianyang Qin,_ _Jinhao Cui,_ _**Zeyu Liu**,_ _Ning Hu,_ and _Qing Liao._ 
 
 - **[InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization.](https://arxiv.org/abs/2508.05731)** \
   **_2025 Under Review_** \
-  **Key Words:** MLLM; GUI Agent; Reinforcement Learning \
-  _Yuhang Liu*, **Zeyu Liu***, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xavier Hu, Xiaotian Han, Jianbo Yuan, Xinyao Wang, Shengyu Zhang, Hongxia Yang, Fei Wu._ 
+  **Keywords:** MLLM; GUI Agent; Reinforcement Learning \
+  👥: _Yuhang Liu*, **Zeyu Liu***, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xavier Hu, Xiaotian Han, Jianbo Yuan, Xinyao Wang, Shengyu Zhang, Hongxia Yang, Fei Wu._ 
 
 - **[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091)** \
   **_2025 Under Review_** \
-  **Key Words:** MLLM; Reasoning; Reinforcement Learning \
-  _**Zeyu Liu***, Yuhang Liu*, Guanghao Zhu, Congkai Xie, Zhen Li, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang_
+  **_Keywords_:** MLLM; Reasoning; Reinforcement Learning \
+  👥: _**Zeyu Liu***, Yuhang Liu*, Guanghao Zhu, Congkai Xie, Zhen Li, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang_
 
 - **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation.](https://arxiv.org/abs/2505.23867)** \
   **_2025 Under Review_** \
-  **Key Words:** MLLM; Medical \
-  _**Zeyu Liu***, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, Jingwen Yang, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang_ 
+  **_Keywords_:** MLLM; Medical \
+  👥: _**Zeyu Liu***, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, Jingwen Yang, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang_ 
 
 - **[InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning.](https://arxiv.org/abs/2502.11573)** \
   **_2025 Under Review_** \
-  _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, **Zeyu Liu**, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang_
+  **_Keywords_:** Pre-train; Post-train; Low Resource \
+  👥: _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, **Zeyu Liu**, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang_
 
 
 - **[Learning from Easy to Hard: Multi-Task Learning with Data Scheduling.](https://ieeexplore.ieee.org/abstract/document/10448153)** \
   **_ICASSP 2024_** \
-   **Keywords:** Multi-task Learning, Data Scheduling, Task conflicts \
-   ***Zeyu Liu***, _Heyan Chai, and Qing Liao*._ 
+   **_Keywords_:** Multi-task Learning, Data Scheduling, Task conflicts \
+   👥: ***Zeyu Liu***, _Heyan Chai, and Qing Liao._ 
    
 - **[Towards Task-Conflicts Momentum-Calibrated Approach for Multi-task Learning.](https://ieeexplore.ieee.org/document/10597963)** \
   **_ICDE 2024_**\
-   **Keywords:** Multi-task Learning, Gradient Manipulation, Task Conflicts \
-   _Heyan Chai,_ ***Zeyu Liu***, _Yongxin Tong, Ziyi Yao, Binxing Fang, and Qing Liao*._ 
+  **_Keywords_:** Multi-task Learning, Gradient Manipulation, Task Conflicts \
+  👥: _Heyan Chai,_ ***Zeyu Liu***, _Yongxin Tong, Ziyi Yao, Binxing Fang, and Qing Liao._ 
    
 
   
