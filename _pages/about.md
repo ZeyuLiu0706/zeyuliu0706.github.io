@@ -14,7 +14,7 @@ redirect_from:
 - I received my Bachelor’s Degree in Computer Science and Technology at the School of Computer Science and Technology, [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html) in 2022.
 
 ## 🤯 Research Interests
-- Multimodal Large Language Model: Downstream Applications (Medical and Mathematics) and Reasoning Enhancement of Multimodal Large Models
+- Multimodal Large Language Model: Downstream Applications (Medical and Mathematics) and Reasoning Enhancement of Multimodal Large Language Models.
 - Machine Learning, especially [Multi-Task Learning](https://ieeexplore.ieee.org/document/9392366) and [Curriculum Learning](https://ieeexplore.ieee.org/document/9392296). 
 
 
@@ -47,7 +47,7 @@ redirect_from:
   👥: _**Zeyu Liu***, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, Jingwen Yang, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang_ 
 
 - **[InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning.](https://arxiv.org/abs/2502.11573)** \
-  **_2025 Under Review_** \
+  **_2025 arXiv_** \
   **_Keywords_:** Pre-train; Post-train; Low Resource \
   👥: _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, **Zeyu Liu**, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang_
 
