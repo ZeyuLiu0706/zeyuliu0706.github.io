@@ -10,8 +10,11 @@ redirect_from:
 ## 🤗 About me
 - I am a first-year PhD student in the Department of Computing of [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/).
 - My current research interests are mainly in Applications of MLLMs and MLLM Reasoning Enhancement.
+
+<!--
 - I received my Master’s Degree in Computer Science and Technology at the School of Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), supervised by [Prof.Qing Liao](http://liaoqing.hitsz.edu.cn/) in 2025.
 - I received my Bachelor’s Degree in Computer Science and Technology at the School of Computer Science and Technology, [Harbin Institute of Technology (Weihai)](https://www.hitsz.edu.cn/index.html) in 2022.
+!-->
 
 ## 🤯 Research Interests
 - Multimodal Large Language Model: Downstream Applications (Medical and Mathematics) and Reasoning Enhancement of Multimodal Large Language Models.
