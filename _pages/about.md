@@ -23,6 +23,25 @@ redirect_from:
 
 ## 📝 Publications and Manuscripts
 (*Equal contribution)
+- **[InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization.](https://arxiv.org/abs/2508.05731)** \
+  **_AAAI 2026_** \
+  **_Keywords_:** MLLM; GUI Agent; Reinforcement Learning \
+  👥: _Yuhang Liu*, **Zeyu Liu***, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xavier Hu, Xiaotian Han, Jianbo Yuan, Xinyao Wang, Shengyu Zhang, Hongxia Yang, Fei Wu._ 
+
+- **[InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning.](https://arxiv.org/abs/2505.23867)** \
+  **_2025 Under Review_** \
+  **_Keywords_:** MLLM; Medical; Post Training \
+  👥: _**Zeyu Liu***, Zhitian Hou, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang_ 
+
+- **[InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning.]([https://arxiv.org/abs/2505.23867](https://arxiv.org/abs/2509.22261))** \
+  **_2025 Under Review_** \
+  **_Keywords_:** MLLM; Medical; CPT \
+  👥: _Guanghao Zhu, Zhitian Hou, **Zeyu Liu,** Zhijie Sang, Congkai Xie, Hongxia Yang_ 
+
+- **[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091)** \
+  **_2025 ArXiv_** \
+  **_Keywords_:** MLLM; Reasoning; Reinforcement Learning \
+  👥: _**Zeyu Liu***, Yuhang Liu*, Guanghao Zhu, Congkai Xie, Zhen Li, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang_
 
 - **[Adaptive Data and Task Joint Scheduling for Multi-task Learning.](https://ieeexplore.ieee.org/abstract/document/11113158)** \
   **_ICDE 2025_** \
@@ -34,26 +53,10 @@ redirect_from:
   **_Keywords_:** Multi-task Learning; Prompt Learning; Causal Learning \
   👥: _Chaoyang Li,_ _Jianyang Qin,_ _Jinhao Cui,_ _**Zeyu Liu**,_ _Ning Hu,_ and _Qing Liao._ 
 
-- **[InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization.](https://arxiv.org/abs/2508.05731)** \
-  **_2025 Under Review_** \
-  **_Keywords_:** MLLM; GUI Agent; Reinforcement Learning \
-  👥: _Yuhang Liu*, **Zeyu Liu***, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xavier Hu, Xiaotian Han, Jianbo Yuan, Xinyao Wang, Shengyu Zhang, Hongxia Yang, Fei Wu._ 
-
-- **[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091)** \
-  **_2025 Under Review_** \
-  **_Keywords_:** MLLM; Reasoning; Reinforcement Learning \
-  👥: _**Zeyu Liu***, Yuhang Liu*, Guanghao Zhu, Congkai Xie, Zhen Li, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang_
-
-- **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation.](https://arxiv.org/abs/2505.23867)** \
-  **_2025 Under Review_** \
-  **_Keywords_:** MLLM; Medical \
-  👥: _**Zeyu Liu***, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, Jingwen Yang, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang_ 
-
 - **[InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning.](https://arxiv.org/abs/2502.11573)** \
   **_2025 arXiv_** \
   **_Keywords_:** Pre-train; Post-train; Low Resource \
   👥: _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, **Zeyu Liu**, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang_
-
 
 - **[Learning from Easy to Hard: Multi-Task Learning with Data Scheduling.](https://ieeexplore.ieee.org/abstract/document/10448153)** \
   **_ICASSP 2024_** \
