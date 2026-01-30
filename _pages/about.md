@@ -31,7 +31,7 @@ redirect_from:
 - **[InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning.](https://arxiv.org/abs/2505.23867)** \
   **_2025 Under Review_** \
   **_Keywords_:** MLLM; Medical; Post Training \
-  👥: _**Zeyu Liu***, Zhitian Hou, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang_ 
+  👥: _**Zeyu Liu**, Zhitian Hou, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang_ 
 
 - **[InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning.]([https://arxiv.org/abs/2505.23867](https://arxiv.org/abs/2509.22261))** \
   **_2025 Under Review_** \
