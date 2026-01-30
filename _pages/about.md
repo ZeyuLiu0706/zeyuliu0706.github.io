@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zeyu Liu (Latest updates 2025/08)"
+title: "Zeyu Liu"
 author_profile: true
 redirect_from: 
   - /about/
